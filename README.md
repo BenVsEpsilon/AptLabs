@@ -1,2 +1,2 @@
 # AptLabs
-A repository of notes on statistical models and machine learning algorithms and examples of how to use them.
+A repository of notes on statistical models, machine learning algorithms, and examples on how to use them.
